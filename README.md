@@ -15,6 +15,7 @@ Payment is requested only after the bounded scope is confirmed. Initial intake m
 - [Support Ticket Triage Lite](https://ideals2201.github.io/ai-monkey-value-audit/support-ticket-triage-lite.html) — inactive, credential-free n8n sample with synthetic tickets and executable assertions.
 - [Candidate Intake CRM reliability sample](https://ideals2201.github.io/ai-monkey-value-audit/candidate-intake-crm-sample.html) — synthetic failure analysis and acceptance boundary.
 - [Machine-readable offer catalog](https://ideals2201.github.io/ai-monkey-value-audit/offers.json) — current prices, scope, intake, and payment paths.
+- [Externally hosted developer profile](https://profiles.dev/ideals2201) — independently hosted current public projects and service links; not an endorsement or revenue claim.
 
 ## Safety boundary
 
