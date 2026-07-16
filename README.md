@@ -12,6 +12,7 @@ Payment is requested only after the bounded scope is confirmed. Initial intake m
 
 ## Free evidence
 
+- [MIT-licensed n8n reliability samples](https://github.com/ideals2201/n8n-reliability-samples) — two inactive, credential-free workflows with synthetic assertions and no external calls.
 - [Support Ticket Triage Lite](https://ideals2201.github.io/ai-monkey-value-audit/support-ticket-triage-lite.html) — inactive, credential-free n8n sample with synthetic tickets and executable assertions.
 - [Candidate Intake CRM reliability sample](https://ideals2201.github.io/ai-monkey-value-audit/candidate-intake-crm-sample.html) — synthetic failure analysis and acceptance boundary.
 - [Machine-readable offer catalog](https://ideals2201.github.io/ai-monkey-value-audit/offers.json) — current prices, scope, intake, and payment paths.
